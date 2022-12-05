@@ -1,3 +1,6 @@
+// import PocketBase from 'pocketbase'
+
+
 const USERNAME = 'ADMIN_EMAIL'
 const PASSWORD = 'ADMIN_PASSWORD'
 
