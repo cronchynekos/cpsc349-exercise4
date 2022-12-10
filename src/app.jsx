@@ -1,4 +1,4 @@
-// import PocketBase from 'pocketbase'
+import PocketBase from 'pocketbase'
 
 
 const USERNAME = 'ADMIN_EMAIL'
